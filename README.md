@@ -1,3 +1,18 @@
+Tanja: 
+`produce /home/tania/Dropbox/pmb2tag-frames/pmb-3.0.0-en-gold-{p31,p32}.tsv -b`
+
+` mv /home/tania/Dropbox/pmb2tag-frames/pmb-3.0.0-en* /home/tania/Dropbox/pmb2tag-frames/data` 
+` rm /home/tania/Dropbox/pmb2tag-frames/data/*.toknum` 
+` rm /home/tania/Dropbox/pmb2tag-frames/data/*.const` 
+` rm /home/tania/Dropbox/pmb2tag-frames/data/*.lemma` 
+` rm /home/tania/Dropbox/pmb2tag-frames/data/*.pmbdep` 
+` rm /home/tania/Dropbox/pmb2tag-frames/data/*.roles` 
+` rm /home/tania/Dropbox/pmb2tag-frames/data/*.sem` 
+` rm /home/tania/Dropbox/pmb2tag-frames/data/*.super` 
+` rm /home/tania/Dropbox/pmb2tag-frames/data/*.wordnet` 
+` rm /home/tania/Dropbox/pmb2tag-frames/data/*.token` 
+
+
 pmb2tsv
 =======
 
